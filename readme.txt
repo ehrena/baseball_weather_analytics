@@ -1,0 +1,4 @@
+- Run 330project.ipynb from terminal (like a HW or a lab)
+- Read the Jupyter markdown cells alongside the project report for greatest understanding
+- Make sure cache.json, game_logs.csv, and park_codes.txt are in the same directory
+- If the cache gives you trouble (it shouldn't), cache BACKUP has the same data entries 
